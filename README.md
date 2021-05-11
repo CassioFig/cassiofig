@@ -1,6 +1,6 @@
 ## Hi there! I'm Cássio 👋
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A1ssio-figueiredo-938a241a3/) [![github](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassio_fig/)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A1ssio-figueiredo-938a241a3/) [![github](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CassioFig) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassio_fig/)
 
 <!--
 **CassioFig/cassiofig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
