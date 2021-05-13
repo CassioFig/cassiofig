@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 #### Computer Science student 👨🏼‍💻
 Brazillian 🟢🟡
 
-<!--
-- 🔭 I’m currently working on ...
--->
+- 🔭 I’m currently working on Universidade Tiradantes.
 - 🌱 I’m currently learning TypeScript and NestJS.
 - 💬 Ask me about Java, JavaScript, Vue
 - 📫 How to reach me: cassio.figueiredof@gmail.com
