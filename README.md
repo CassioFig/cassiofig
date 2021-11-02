@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Brazillian 🟢🟡
 
 - 🔭 I’m currently working on Universidade Tiradantes.
-- 🌱 I’m currently learning TypeScript and NestJS.
-- 💬 Ask me about Java, JavaScript, Vue
+<!-- - 🌱 I’m currently learning TypeScript and NestJS. -->
+- 💬 Ask me about Typescript, JavaScript, Vue
 - 📫 How to reach me: cassio.figueiredof@gmail.com
 
 ## 💻  Technologies & Tools
@@ -32,7 +32,7 @@ Brazillian 🟢🟡
 
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
