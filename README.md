@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 #### Computer Science student 👨🏼‍💻
 Brazillian 🟢🟡
 
-- 🔭 I’m currently working on Universidade Tiradantes.
-<!-- - 🌱 I’m currently learning TypeScript and NestJS. -->
+- 🔭 I’m currently working on Grupo Tiradentes.
+- 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about Typescript, JavaScript, Vue
 - 📫 How to reach me: cassio.figueiredof@gmail.com
 
